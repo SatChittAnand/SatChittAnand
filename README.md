@@ -34,7 +34,7 @@ Hi, I'm Satyanarayan Mohanty—an enthusiastic student, ML-focused developer, an
 - **Machine Learning & Deep Learning**
 - **AI Development**
 - **Blockchain Integration**
-- **Image Processing & OCR**
+- **Frontend Development**
 - **Project Management Tools**
 
 ---
