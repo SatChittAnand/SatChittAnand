@@ -36,6 +36,7 @@ Hi, I'm Satyanarayan Mohanty—an enthusiastic student, ML-focused developer, an
 - **Blockchain Integration**
 - **Frontend Development**
 - **Project Management Tools**
+- **Open Source Projects**
 
 ---
 
