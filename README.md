@@ -48,11 +48,11 @@ Hi, I'm Satyanarayan Mohanty—an enthusiastic student, ML-focused developer, an
 - **Twitter-Sentiment-Analysis**  
   NLP-powered sentiment analysis for Twitter tweets (positive/negative)
 
+- **TaskHub**  
+  Kanban-style project management tool
+  
 - **Breast_Cancer_Classification_Using-LogisticRegression**  
   Logistic regression model achieving 97% accuracy
-
-- **TaskHub**  
-  Kanban-style project management tool (forked from Sourav-10x/TaskHub)
 
 - **AI-Task-Automator**  
   Automated Gradio-based slide generation using AI agents
