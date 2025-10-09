@@ -23,7 +23,7 @@ Bhubaneswar, Odisha, INDIA
 
 ## 🔭 About Me
 
-Hi, I'm Satyanarayan Mohanty—an enthusiastic student, ML-focused developer, and software engineer driven by a love for solving complex problems!  
+Hi, I'm Satyanarayan Mohanty—an enthusiastic student, Frontend Developer, ML-focused developer, and software engineer driven by a love for solving complex problems!  
 - 🌱 **Continuous learner:** Always exploring new domains, especially in AI, ML, and blockchain technologies  
 - 💡 Enjoy iterating on technical challenges and contributing to open-source
 
