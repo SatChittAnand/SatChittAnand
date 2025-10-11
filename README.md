@@ -33,7 +33,7 @@ Hi, I'm Satyanarayan Mohanty—an enthusiastic student, Frontend Developer, ML-f
 
 - **Machine Learning & Deep Learning**
 - **AI Development**
-- *prompt*
+- **Prompt Engineering**
 - **Blockchain Integration**
 - **Frontend Development**
 - **Project Management Tools**
