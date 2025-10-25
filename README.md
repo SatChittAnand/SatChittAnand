@@ -65,8 +65,10 @@ Hi, I'm Satyanarayan Mohanty—an enthusiastic student, Frontend Developer, ML-f
 
 ## 🌐 Connect With Me
 
-- **[LinkedIn]:**[in/satyanarayan-mohanty-9a8466311](https://linkedin.com/in/satyanarayan-mohanty-9a8466311)
-- **Twitter/X:** [@Satyanaray50373](https://twitter.com/Satyanaray50373)
+<p align="left">
+<a href="https://twitter.com/satyanaray50373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyanaray50373" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyanarayan-mohanty-9a8466311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyanarayan-mohanty-9a8466311" height="30" width="40" /></a>
+</p>
 
 ---
 
